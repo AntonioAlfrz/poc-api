@@ -1,0 +1,23 @@
+Pending:
+Actions API
+Dockerize
+Kubernetes
+Authentication (passportjs.org)
+Prometheus
+
+/users
+    create
+    delete
+    list
+    admin
+    file_attached (Blob?, url a container?)
+/actions
+    upload
+    download
+    list
+/tests
+
+Authentication random token
+https://t.co/TPgjnEh7ry
+app.listen() or server.listen()?
+https://stackoverflow.com/questions/17696801/express-js-app-listen-vs-server-listen

@@ -1,0 +1,10 @@
+[Install packages]
+npm install --save <> (Production)
+npm install --save-dev <> (Development)
+
+[Start Mongo database in folder 'data']
+mongod --dbpath mongo/data
+
+[Gulp and tests]
+gulp watch --> Keep server alive, testing and listening to changes
+gulp test

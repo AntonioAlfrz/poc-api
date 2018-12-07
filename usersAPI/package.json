@@ -1,0 +1,16 @@
+{
+  "name": "users_rest_kubernetes",
+  "version": "1.0.0",
+  "description": "Users API for a RESTful API on Kubernetes",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "author": "Antonio Alférez",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.7"
+  }
+}
